@@ -1,0 +1,15 @@
+C:\Users\Liladhar\source\repos\CAF Update Company and Group\CAF Update Company and Group\bin\Debug\CAF Update Company and Group.dll.config
+C:\Users\Liladhar\source\repos\CAF Update Company and Group\CAF Update Company and Group\bin\Debug\CAF Update Company and Group.dll
+C:\Users\Liladhar\source\repos\CAF Update Company and Group\CAF Update Company and Group\bin\Debug\CAF Update Company and Group.pdb
+C:\Users\Liladhar\source\repos\CAF Update Company and Group\CAF Update Company and Group\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Liladhar\source\repos\CAF Update Company and Group\CAF Update Company and Group\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\Liladhar\source\repos\CAF Update Company and Group\CAF Update Company and Group\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Liladhar\source\repos\CAF Update Company and Group\CAF Update Company and Group\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\Liladhar\source\repos\CAF Update Company and Group\CAF Update Company and Group\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\Liladhar\source\repos\CAF Update Company and Group\CAF Update Company and Group\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\Liladhar\source\repos\CAF Update Company and Group\CAF Update Company and Group\obj\Debug\CAF Update Company and Group.csproj.CoreCompileInputs.cache
+C:\Users\Liladhar\source\repos\CAF Update Company and Group\CAF Update Company and Group\obj\Debug\CAF Update Company and Group.csproj.CopyComplete
+C:\Users\Liladhar\source\repos\CAF Update Company and Group\CAF Update Company and Group\obj\Debug\CAF Update Company and Group.dll
+C:\Users\Liladhar\source\repos\CAF Update Company and Group\CAF Update Company and Group\obj\Debug\CAF Update Company and Group.pdb
+C:\Users\Liladhar\source\repos\CAF Update Company and Group\CAF Update Company and Group\obj\Debug\CAF Update Company and Group.csprojAssemblyReference.cache
+C:\Users\Liladhar\source\repos\CAF Update Company and Group\CAF Update Company and Group\bin\Debug\microsoft.identitymodel.dll
